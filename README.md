@@ -2,20 +2,21 @@
 
 ## Nombre de la aplicación: Túum
 
-> Túum, *palabra maya que significa prueba*, es una aplicación (web/movil) capaz de permitir al usuario tomar decisiones en diferentes escenarios que se le presenten. 
+> Túum, *palabra maya que significa prueba*, es una aplicación (web/movil) que busca representar de una forma l&uacute;dica los examenes de aptitud. 
 
 ### Objetivo general
 
-> El objetivo principal de nuestra aplicación es evaluar al usuario por medio de las decisiones que toma a partir de los escenarios
-> que se le van planteando conforme transcurre la partida.
+> Esta aplicación busca que las evaluaciones de aptitud sean m&aacute;s divertida mediante un juego que represente las preguntas en diferentes escenarios durante la partida haciendo que la evaluaci&oacute;n sea mucho mas divertida y por lo tanto, mas facil de aplicar a cierto tipo de usuarios. 
 
 #### Objetivos particulares
 
-> - Evaluar las decisiones del usuario.
-> * Con base a las decisiones tomadas por el usuario se evaluará:*
->> - Las habilidades y aptitudes que permitan clasificarlo de acuerdo a algún campo en el que mejor podría desempeñarse.
->> - La personalidad y capacidad de respuesta ante una situación dada.
->> - La experiencia del usuario al ir transcurriendo la partida. 
+> - Representar preguntas de un examen de aptitud en escenarios de un juego.
+> - Con base a las desiciones tomadas por el usuario se busca obtener:
+>> - Las aptitudes del usuario.
+>> - Datos relacionados con la personalidad del usuario.
+>> - La capacidad de respuesta del usuario ante una situaci&oacute;n.
+>> - De ser posible canalizarlo para o propiciar que sus habilidades sean desarrolladas de mejor manera.
+ 
 
 
 #### Justificación e impacto 
